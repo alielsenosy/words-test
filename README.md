@@ -1,4 +1,4 @@
-1- Download the files__
+1- Download the files <br />
 2- Run "npm install" to install packages in each folder server and client__
 3- Run "npm start" in server folder first, then in client folder__
 4- Start the exam__
